@@ -14,7 +14,8 @@ const profileInfo = {
     },
     {
       title: "Back-End",
-      description: "Laravel, ASP.Net, Golang, Fast API",
+      description:
+        "Golang (Gin), PHP (Laravel), C# (ASP.Net), Python (Fast API)",
     },
     {
       title: "Database",
